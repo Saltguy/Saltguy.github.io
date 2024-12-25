@@ -1,0 +1,3 @@
+[submodule "quickstart/themes/etch"]
+	path = quickstart/themes/etch
+	url = https://github.com/LukasJoswiak/etch.git
