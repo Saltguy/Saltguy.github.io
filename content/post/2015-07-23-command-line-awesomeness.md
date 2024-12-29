@@ -1,8 +1,6 @@
 ---
 title: "Command Line Awesomeness"
 date: '2012-03-12'
-categories:
-  - Blog
 tags:
   - HTML
 ---

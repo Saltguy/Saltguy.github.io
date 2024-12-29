@@ -11,7 +11,8 @@ description: "Personal website."
 
 ### :purple_heart: :earth_africa: :purple_heart:
 
-Born in [The Abyss](https://en.wikipedia.org/wiki/New_Haven), dog.
+Born in [The Abyss](https://en.wikipedia.org/wiki/New_Haven), dog. 
+拳を極めし者也
 
 
 <img src="/images/partywizard.gif">

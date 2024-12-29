@@ -5,7 +5,9 @@ googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 languageCode = "en-us"
 theme = "hugo-classic"
-title = "Classic"
+title = "Home"
+
+disableKinds = ["taxonomy"]
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -35,10 +37,9 @@ name = "Tags"
 url = "/tags/"
 weight = 2
 [[menu.feed]]
-name = "Subscribe"
-url = "/index.xml"
-
+name = "日本語"
+url = "/nihongo/"
 [params]
 custom_css = ["css/theme-override.css"]
-description = "A simple, minimal blog for those who love text."
-footer = "Open-Source | [Github](https://github.com/goodroot/hugo-classic) | [Keybase](https://keybase.io/goodroot)"
+description = "Hello."
+footer = "Open-Source | [Github](https://github.com/Saltguy/Saltguy.github.io)"

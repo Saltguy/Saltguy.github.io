@@ -2,8 +2,6 @@
 title: Markdown Guide (modified)
 author: Open Source
 date: '2018-08-30'
-categories:
-  - Example
 tags:
   - Markdown
 ---
