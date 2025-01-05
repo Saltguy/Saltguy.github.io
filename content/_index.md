@@ -3,20 +3,15 @@ title: Home
 description: "Personal website."
 ---
 <img
-  id="foxy"
-  src="/images/bossup.png"
-  alt="Remember">
+  id="Melencolia I by Albrecht Dürer"
+  src="/images/melencolia.jpg"
+  alt="Melencolia"
+  width=350>
 
-## Welcome
-
-### :purple_heart: :earth_africa: :purple_heart:
-
-Born in [The Abyss](https://en.wikipedia.org/wiki/New_Haven), dog. 
-拳を極めし者也
+### About
+I'm a physics student at KTH in Sweden. I may post about things that interest me here. 
 
 
-<img src="/images/partywizard.gif">
 
----
+### Posts
 
-## Musings

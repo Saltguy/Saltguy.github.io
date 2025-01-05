@@ -29,17 +29,19 @@ tabWidth = 4
 post = "/post/:year/:month/:day/:slug/"
 
 [[menu.main]]
-name = "Categories"
+name = "Placeholder"
 url = "/categories/"
 weight = 1
-[[menu.main]]
-name = "Tags"
-url = "/tags/"
+
+[[menu.feed]]
+name = "github"
+url = "/nihongo/"
 weight = 2
 [[menu.feed]]
 name = "日本語"
 url = "/nihongo/"
+weight = 1
 [params]
 custom_css = ["css/theme-override.css"]
 description = "Hello."
-footer = "Open-Source | [Github](https://github.com/Saltguy/Saltguy.github.io)"
+footer = "心を精錬する事だ"
