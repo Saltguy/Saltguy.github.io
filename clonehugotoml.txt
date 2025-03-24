@@ -28,12 +28,20 @@ tabWidth = 4
 [permalinks]
 post = "/post/:year/:month/:day/:slug/"
 
+[[menu.main]]
+name = "Placeholder"
+url = "/categories/"
+weight = 1
 
 [[menu.feed]]
 name = "github"
 url = "https://github.com/Saltguy"
 weight = 2
+[[menu.feed]]
+name = "日本語"
+url = "/nihongo/"
+weight = 1
 [params]
 custom_css = ["css/theme-override.css"]
 description = "Hello."
-footer = ""
+footer = "心を精錬する事だ"
